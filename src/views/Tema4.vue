@@ -20,43 +20,46 @@
         .bg--pink.p-4
           .row.justify-content-center.align-items-end
             .col-lg-6.mb-4.mb-lg-0
-              ul.mb-2.lista-ul--color
+              ul.fa-ul
                 li.mb-0 
-                  i.fas.fa-play.clr--darkBlue
-                  | Algunas herramientas básicas, muy comunes, para realizar análisis de seguridad digital son:
-              ul.px-md-3.lista-ul--color.lista-acento-botones
+                  i.fa-li.fas.fa-play.clr--darkBlue
+                  | Algunas herramientas básicas, muy comunes, para realizar análisis de seguridad digital son:            
+
+              ul.fa-ul.ms-5
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Nmap (“mapeador de redes”).
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em Nmap (“mapeador de redes”)].
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Wireshark.
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em Wireshark.]
                 li.mb-0 
-                  i.fas.fa-square
-                  italic OpenVAS.
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em OpenVAS]
                 li.mb-0 
-                  i.fas.fa-square
-                  italic OWA SP Zen Attack Proxy – ZAP. 
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em OWA SP Zen Attack Proxy – ZAP.] 
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Nessus.
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em Nessus.]
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Vega.
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em Vega.]
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Mesploit Framework.   
-              ul.mb-2.lista-ul--color
+                  i.fa-li.fas.fa-square.clr--prime
+                  | #[em Mesploit Framework.] 
+                    
+              ul.fa-ul
                 li.mb-0 
-                  i.fas.fa-play.clr--darkBlue
+                  i.fa-li.fas.fa-play.clr--darkBlue
                   | También existen sistemas operativos enfocados a seguridad de digital:
-              ul.mb-0.px-md-3.lista-ul--color.lista-acento-botones
+
+              ul.fa-ul.ms-5
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Kali Linux OS.
+                  i.fa-li.fas.fa-square.clr--prime
+                  |#[em Kali Linux OS.]
                 li.mb-0 
-                  i.fas.fa-square
-                  italic Parrot OS. 
+                  i.fa-li.fas.fa-square.clr--prime
+                  |#[em Parrot OS.] 
 
             .col-lg-6.col-8
               figure
@@ -83,9 +86,7 @@
             img(src='@/assets/curso/temas/t4/t4_04.png', alt='WireShark')
           figcaption.naranja Nota. Tomado de https://acortar.link/OtEpu8 
         .col-lg
-          p “Analizador de protocolos de red más importante y más utilizado del mundo. Le permite ver lo que está sucediendo en su red a un nivel microscópico y es el estándar de facto (y a menudo de jure) en muchas empresas comerciales y sin fines de lucro, agencias gubernamentales e instituciones educativas. El desarrollo de 
-            italic-strong WireShark 
-            | prospera gracias a las contribuciones voluntarias de expertos en redes de todo el mundo y es la continuación de un proyecto iniciado por Gerald Combs en 1998.” WireShark.org (2021).
+          p “Analizador de protocolos de red más importante y más utilizado del mundo. Le permite ver lo que está sucediendo en su red a un nivel microscópico y es el estándar de facto (y a menudo de jure) en muchas empresas comerciales y sin fines de lucro, agencias gubernamentales e instituciones educativas. El desarrollo de #[em #[strong WireShark]] prospera gracias a las contribuciones voluntarias de expertos en redes de todo el mundo y es la continuación de un proyecto iniciado por Gerald Combs en 1998.” WireShark.org (2021).
 
       .row.justify-content-center(titulo="<em>OpenVAS</em>")
         .col-lg-4.col-8.mb-4.mb-lg-0
@@ -102,13 +103,7 @@
             img(src='@/assets/curso/temas/t4/t4_06.png', alt='OWASP Zen Attack Proxy – ZAP')
           figcaption.naranja Nota. Tomado de https://acortar.link/zZcD5Y
         .col-lg
-          p  Es un escáner de seguridad que permite descubrir vulnerabilidades en las aplicaciones 
-            italic web. 
-            | “La Fundación OWASP ® trabaja para mejorar la seguridad del 
-            italic software 
-            | a través de sus proyectos de 
-            italic software 
-            | de código abierto, liderados por la comunidad, cientos de capítulos en todo el mundo, decenas de miles de miembros y organizando conferencias locales y globales.”  Owasp.org (2021).
+          p  Es un escáner de seguridad que permite descubrir vulnerabilidades en las aplicaciones #[em web]. “La Fundación OWASP ® trabaja para mejorar la seguridad del #[em software] a través de sus proyectos de #[em software] de código abierto, liderados por la comunidad, cientos de capítulos en todo el mundo, decenas de miles de miembros y organizando conferencias locales y globales.”  Owasp.org (2021).
 
       .row.justify-content-center(titulo="<em>Nessus</em>")
         .col-lg-4.col-8.mb-4.mb-lg-0
@@ -116,9 +111,7 @@
             img(src='@/assets/curso/temas/t4/t4_07.png', alt='Nessus')
           figcaption.naranja Nota. Tomado de https://acortar.link/j7p45Y
         .col-lg
-          p “Es un escáner de vulnerabilidades con el cual se pueden realizar evaluaciones de seguridad profundas y de alta velocidad, tiene soporte a través de 
-            italic Tenable Community, 
-            | y es ideal para educadores, estudiantes e individuos que inician sus carreras en ciberseguridad”.  Basado en tenable.com (2021).   
+          p “Es un escáner de vulnerabilidades con el cual se pueden realizar evaluaciones de seguridad profundas y de alta velocidad, tiene soporte a través de #[em Tenable Community], y es ideal para educadores, estudiantes e individuos que inician sus carreras en ciberseguridad”.  Basado en tenable.com (2021).   
 
       .row.justify-content-center(titulo="<em>Vega</em>")       
         .col-lg-4.col-8.mb-4.mb-lg-0
@@ -145,9 +138,7 @@
             figure
               img.px-md-1(src='@/assets/curso/temas/t4/t4_10.svg', alt='Kali Linux OS')
         h3.text-center Kali Linux OS
-        p.text-center Es un sistema operativo GNU/Linux basado en Debian. Contiene preconfiguradas, diversas herramientas 
-          italic software 
-          | para realizar pruebas de seguridad. “La plataforma de pruebas de penetración de Kali Linux contiene una amplia gama de herramientas y utilidades. Desde la recopilación de información hasta los informes finales, Kali Linux permite a los profesionales de la seguridad y de TI evaluar la seguridad de sus sistemas”. Kali.org (2021)
+        p.text-center Es un sistema operativo GNU/Linux basado en Debian. Contiene preconfiguradas, diversas herramientas #[em software]  para realizar pruebas de seguridad. “La plataforma de pruebas de penetración de Kali Linux contiene una amplia gama de herramientas y utilidades. Desde la recopilación de información hasta los informes finales, Kali Linux permite a los profesionales de la seguridad y de TI evaluar la seguridad de sus sistemas”. Kali.org (2021)
 
       .col-md.bg--piel.br_01.p-md-5.p-4(data-aos="flip-left")
         .row.justify-content-center.text-white.mb-4
@@ -155,9 +146,7 @@
             figure
               img(src='@/assets/curso/temas/t4/t4_11.svg', alt='Parrot OS')
         h3.text-center Parrot OS
-        p.text-center Es una distribución GNU / Linux basada en Debian y diseñada pensando en la seguridad y la privacidad. Incluye un laboratorio portátil completo para todo tipo de operaciones de seguridad cibernética, desde pentesting hasta análisis forense digital e ingeniería inversa, pero también incluye todo lo necesario para desarrollar su propio 
-          italic software 
-          | o mantener sus datos seguros - Parrotsec.org (2021).
+        p.text-center Es una distribución GNU / Linux basada en Debian y diseñada pensando en la seguridad y la privacidad. Incluye un laboratorio portátil completo para todo tipo de operaciones de seguridad cibernética, desde pentesting hasta análisis forense digital e ingeniería inversa, pero también incluye todo lo necesario para desarrollar su propio #[em software] o mantener sus datos seguros - Parrotsec.org (2021).
 
 </template>
 

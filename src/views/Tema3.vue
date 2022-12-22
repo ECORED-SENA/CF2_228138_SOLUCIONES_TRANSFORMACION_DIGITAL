@@ -41,15 +41,7 @@
     AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="zoom-in")
       .row(titulo="Infraestructura tradicional")
         .col-lg-7
-          p “Una infraestructura de TI tradicional incluye los componentes de 
-            italic hardware 
-            | y 
-            italic software 
-            | habituales: instalaciones, centros de datos, servidores, computadores de escritorio de 
-            italic hardware 
-            | de red y soluciones empresariales de 
-            italic software 
-            | de aplicaciones. 
+          p “Una infraestructura de TI tradicional incluye los componentes de #[em hardware] y #[em software habituales]: instalaciones, centros de datos, servidores, computadores de escritorio de #[em hardware] de red y soluciones empresariales de #[em software] de aplicaciones. 
           p Normalmente, esta infraestructura requiere más energía, espacio físico y dinero que otros tipos de infraestructura. Se instala localmente para uso exclusivo, o privado, de la empresa.” (IBM, 2021)
         .col-lg-5
           img(src="@/assets/curso/temas/t3/t3_04.png", alt="Infraestructura tradicional")
@@ -66,45 +58,28 @@
           ul.lista-ul--color.lista-acento-botones.mb-0
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Composición por elementos de 
-                italic hardware 
-                | y 
-                italic software.
+              p.mb-0 Composición por elementos de #[em hardware] y #[em software].
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Comunicación por servicios de red basados 
-                italic hardware 
-                | y 
-                italic software. 
+              p.mb-0 Comunicación por servicios de red basados #[em hardware] y #[em software]. 
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Segmentación de zonas, que pueden ser campus o red de usuarios e invitados, 
-                italic Demilitarized Zone - DMZ; 
-                | bases de datos, servidores.
+              p.mb-0 Segmentación de zonas, que pueden ser campus o red de usuarios e invitados, #[em Demilitarized Zone] - DMZ; bases de datos, servidores.
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Alta Disponibilidad en componentes, principalmente en los componentes de red, servidores de aplicación, 
-                italic storage 
-                | y energía.
+              p.mb-0 Alta Disponibilidad en componentes, principalmente en los componentes de red, servidores de aplicación, #[em storage] y energía.
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Virtualización; Implementación de múltiples servidores virtuales en hiper visores tales como; 
-                italic VMware, Proxmox, XenServer, Citrix, Hyper-v, ESX.
+              p.mb-0 Virtualización; Implementación de múltiples servidores virtuales en hiper visores tales como; #[em VMware, Proxmox, XenServer, Citrix, Hyper-v, ESX.]
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Implementación de Servidores de aplicación web y servicios; 
-                italic File.
+              p.mb-0 Implementación de Servidores de aplicación web y servicios; #[em File].
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 
-                italic Transfer Protocol - FTP, 
-                | Sistema de Nombres de Dominio 
-                italic DNS.
+              p.mb-0 #[em Transfer Protocol - FTP], Sistema de Nombres de Dominio #[em DNS].
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Sistemas 
-                italic ERP, BI, 
-                | entre otros.            
+              p.mb-0 Sistemas #[em ERP, BI,] entre otros.            
         .col-lg-5
           img(src="@/assets/curso/temas/t3/t3_06.png", alt="Principales características de las  infraestructuras") 
 
@@ -126,8 +101,7 @@
               | Direccionamiento par el cumplimiento de la legislación aplicable en relación a las operaciones de la infraestructura tecnológica.
             li.mb-0 
               i.fas.fa-square
-              p.mb-0 Protección de dispositivos finales, 
-                italic hosts.
+              p.mb-0 Protección de dispositivos finales, #[em hosts].
             li.mb-0 
               i.fas.fa-square
               | Protección criptográfica.  
@@ -174,24 +148,17 @@
                     | red, aplicación, servicios, bases de datos.
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Router: 
-                    | enrutadores de red.
+                  p.mb-0 #[em #[strong Router:]] enrutadores de red.
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Switch:  
-                    | switches conectores de diversas capas de red.  
+                  p.mb-0 #[em #[strong Switch:]] #[em switches] conectores de diversas capas de red.  
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0 
                     strong Sistema de refrigeración. 
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Storage:   
-                    | sistemas de almacenamiento en red, 
-                    italic network attached storage - nas. 
+                  p.mb-0 #[em #[strong Storage:]] sistemas de almacenamiento en red, #[em network attached storage - nas.] 
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0 
@@ -216,32 +183,24 @@
                     | Impresoras, escáneres, lectores láser, entre otros.  
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    strong Software de virtualización: 
-                    italic VMware, Proxmox, XenServer, Citrix, Hyper-v, ESX.
+                  p.mb-0 #[strong #[em Software]] #[strong de virtualización:] #[em VMware, Proxmox, XenServer, Citrix, Hyper-v, ESX.]
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    strong Software de monitoreo:    
-                    | monitoreo de red, capacidades y temperaturas.
+                  p.mb-0 #[em #[strong Software]] #[strong de monitoreo:] monitoreo de red, capacidades y temperaturas.
 
           .row(titulo="Componentes de seguridad más usuales")
             .col-12.ps-5
               ul.lista-ul--color.lista-acento-botones.mb-0
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Firewall 
-                    strong de Red: 
+                  p.mb-0 #[em #[strong Firewall]] #[strong de Red:] 
                     | asegura el entorno de conexión.
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Antimalware.
+                  p.mb-0 #[em #[strong Antimalware]].
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Firewall 
+                  p.mb-0 #[em #[strong Firewall]] 
                     strong de aplicación.  
                 li.mb-0 
                   i.fas.fa-square
@@ -251,13 +210,10 @@
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0 
-                    strong Sistemas de correlación de eventos o 
-                    italic-strong Logs, Security Information and Event Management - SIEM.  
+                    strong Sistemas de correlación de eventos o #[em #[strong Logs, Security Information and Event Management - SIEM.]]  
                 li.mb-0 
                   i.fas.fa-square
-                  p.mb-0 
-                    italic-strong Cifrad: 
-                    | conectividad y datos.
+                  p.mb-0 #[em #[strong Cifrad:]] conectividad y datos.
 
           .row(titulo="Otros componentes importantes de la seguridad")
             .col-12.ps-5
@@ -275,25 +231,19 @@
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0  
-                    strong NIDS -  
-                    italic-strong Network Intrusion Detection System, 
-                    strong Sistemas de detección de intrusos en red.
+                    strong NIDS - #[em #[strong Network Intrusion Detection System]], #[strong Sistemas de detección de intrusos en red.]
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0  
-                    strong Herramientas de análisis de vulnerabilidades:  
-                    italic OpenVas, Nessus.
+                    strong Herramientas de análisis de vulnerabilidades: #[em OpenVas, Nessus].
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0  
-                    strong WAF -   
-                    italic-strong Web Aplication Firewall, Firewall  
-                    strong de aplicación.    
+                    strong WAF - #[em #[strong Web Aplication Firewall, Firewall]] #[strong de aplicación].    
                 li.mb-0 
                   i.fas.fa-square
                   p.mb-0  
-                    strong DLP –    
-                    italic-strong Data Loss Prevention:  
+                    strong DLP – #[em #[strong Data Loss Prevention:]]  
                     | sistema de prevención de pérdida de datos o fuga de información.        
                                                 
       .col-lg-5.mb-4(data-aos="fade-left")
@@ -309,9 +259,7 @@
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       .col-md-10
         .cajon.color-acento-contenido.p-4.mb-4.mb-md-0
-          p.mb-0 Hablar de interconexiones de redes y seguridad perimetral, es referirse a las conexiones de red entre los diferentes dispositivos, de acuerdo con los fundamentos de red o 
-            italic networking, 
-            | incluyendo los dispositivos de seguridad perimetral. 
+          p.mb-0 Hablar de interconexiones de redes y seguridad perimetral, es referirse a las conexiones de red entre los diferentes dispositivos, de acuerdo con los fundamentos de red o #[em networking], incluyendo los dispositivos de seguridad perimetral. 
     
     p(data-aos="fade-left").mb-4 Para una mejor comprensión de este punto, se debe estudiar atentamente la imagen animada que se muestra en pantalla (ver figura1) y tomar nota de los aspectos que ella explica:
 

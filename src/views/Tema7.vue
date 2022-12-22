@@ -360,8 +360,7 @@
             .col-md-4.col-6.mt-3
               img(src='@/assets/curso/temas/t7/t7_05B.svg', alt='imagen decorativa')  
             .col-md-8.mt-3
-              p.mb-0 El Diseño del control es la sumatoria de la 
-                italic-strong Asignación del control con el Tipo de control (Preventivo, Correctivo) + la  Naturaleza del control, la Frecuencia y la Funcionalidad.
+              p.mb-0 El Diseño del control es la sumatoria de la       Asignación del control con el Tipo de control (Preventivo, Correctivo) + la  Naturaleza del control, la Frecuencia y la Funcionalidad.
     
     .row.mb-4(data-aos="zoom-in")
       .titulo-numero-acento-contenido 
