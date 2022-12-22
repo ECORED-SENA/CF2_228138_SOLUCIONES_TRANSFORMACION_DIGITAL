@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="76" viewBox="0 0 190 76">
+  <g id="Grupo_157332" data-name="Grupo 157332" transform="translate(-2023 5625.863)">
+    <path id="Rectángulo_45078" data-name="Rectángulo 45078" d="M25.929,0h157A7.071,7.071,0,0,1,190,7.071v0A25.929,25.929,0,0,1,164.071,33h-157A7.071,7.071,0,0,1,0,25.929v0A25.929,25.929,0,0,1,25.929,0Z" transform="translate(2023 -5606)" fill="#ff6148" opacity="0.999"/>
+    <path id="Trazado_600532" data-name="Trazado 600532" d="M0,0H67V68H0Z" transform="translate(2086 -5621)" fill="#ffde95"/>
+    <g id="mesa" transform="translate(2069 -5682.238)">
+      <path id="Trazado_150239" data-name="Trazado 150239" d="M0,0H94.109V14.428H0Z" transform="translate(1.952 58.327)" fill="#ffb206"/>
+      <path id="Trazado_150240" data-name="Trazado 150240" d="M0,0H94.109V57.712H0Z" transform="translate(1.952 72.71)" fill="#fff"/>
+      <g id="Grupo_87757" data-name="Grupo 87757" transform="translate(0 56.375)">
+        <path id="Trazado_150236" data-name="Trazado 150236" d="M96.062,132.375a1.953,1.953,0,0,0,1.952-1.952v-72.1a1.953,1.953,0,0,0-1.952-1.952H1.952A1.953,1.953,0,0,0,0,58.327v72.1a1.953,1.953,0,0,0,1.952,1.952ZM94.109,99.614H74.487V89.091H94.109ZM3.9,89.091H23.527V99.614H3.9ZM70.582,74.708V85.186H50.96V74.708Zm-23.527,0V85.186H27.432V74.708ZM27.432,89.091H47.055V99.614H27.432Zm23.527,0H70.582V99.614H50.96Zm23.527-3.9V74.708H94.109V85.186ZM23.527,74.708V85.186H3.9V74.708ZM3.9,103.519H23.527v10.523H3.9Zm23.527,0H47.055v10.523H27.432Zm23.527,0H70.582v10.523H50.96Zm23.527,0H94.109v10.523H74.487ZM3.9,70.758V60.28h90.2V70.758Zm0,47.189H23.527V128.47H3.9Zm23.527,0H47.055V128.47H27.432Zm23.527,0H70.582V128.47H50.96Zm43.15,10.523H74.487V117.947H94.109Z" transform="translate(0 -56.375)"/>
+        <path id="Trazado_150237" data-name="Trazado 150237" d="M200.952,91.53H238.44a1.952,1.952,0,1,0,0-3.9H200.952a1.952,1.952,0,0,0,0,3.9Z" transform="translate(-160.146 -81.524)"/>
+        <path id="Trazado_150238" data-name="Trazado 150238" d="M427.952,91.53h4.3a1.952,1.952,0,1,0,0-3.9h-4.3a1.952,1.952,0,0,0,0,3.9Z" transform="translate(-342.825 -81.524)"/>
+      </g>
+      <path id="comprobado" d="M0,69.769l4.482,4.49,8.606-8.6-1.236-1.218L4.482,71.8,1.218,68.542Z" transform="translate(77.456 25.023)" fill="#e01650"/>
+    </g>
+  </g>
+</svg>

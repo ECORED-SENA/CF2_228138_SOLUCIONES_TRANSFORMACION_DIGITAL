@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="75" viewBox="0 0 190 75">
+  <g id="Grupo_157330" data-name="Grupo 157330" transform="translate(-1125 -5031)">
+    <path id="Rectángulo_45074" data-name="Rectángulo 45074" d="M25.929,0h157A7.071,7.071,0,0,1,190,7.071v0A25.929,25.929,0,0,1,164.071,33h-157A7.071,7.071,0,0,1,0,25.929v0A25.929,25.929,0,0,1,25.929,0Z" transform="translate(1125 5052)" fill="#ff6148" opacity="0.999"/>
+    <g id="like-arrow-direction-button-pointer" transform="translate(1181 5029)">
+      <rect id="Rectángulo_36025" data-name="Rectángulo 36025" width="73" height="73" rx="4" transform="translate(3 3)" fill="#ffb206"/>
+      <path id="Trazado_150397" data-name="Trazado 150397" d="M57.75,3H54a5,5,0,0,1,5,5V70.5a5,5,0,0,1-5,5h3.75a5,5,0,0,0,5-5V8A5,5,0,0,0,57.75,3Z" transform="translate(13 0.25)" fill="#ffb206"/>
+      <path id="Trazado_150398" data-name="Trazado 150398" d="M70.75,77H8.25A6.258,6.258,0,0,1,2,70.75V8.25A6.257,6.257,0,0,1,8.25,2h62.5A6.257,6.257,0,0,1,77,8.25v62.5A6.257,6.257,0,0,1,70.75,77ZM8.25,4.5A3.75,3.75,0,0,0,4.5,8.25v62.5A3.75,3.75,0,0,0,8.25,74.5h62.5a3.75,3.75,0,0,0,3.75-3.75V8.25A3.75,3.75,0,0,0,70.75,4.5Z" fill="#231f20"/>
+      <path id="Trazado_150399" data-name="Trazado 150399" d="M15,28H57.5V38H15Z" transform="translate(3.25 6.5)" fill="#2effc7"/>
+      <circle id="Elipse_4591" data-name="Elipse 4591" cx="6.5" cy="6.5" r="6.5" transform="translate(33 17)" fill="#2effc7"/>
+      <ellipse id="Elipse_4592" data-name="Elipse 4592" cx="6.5" cy="6" rx="6.5" ry="6" transform="translate(33 50)" fill="#2effc7"/>
+      <g id="Grupo_107075" data-name="Grupo 107075" transform="translate(17 15.75)">
+        <path id="Trazado_150400" data-name="Trazado 150400" d="M57.75,39.5H15.25A1.25,1.25,0,0,1,14,38.25v-10A1.25,1.25,0,0,1,15.25,27h42.5A1.25,1.25,0,0,1,59,28.25v10A1.25,1.25,0,0,1,57.75,39.5ZM16.5,37h40V29.5h-40Z" transform="translate(-14 -9.5)" fill="#231f20"/>
+        <path id="Trazado_150401" data-name="Trazado 150401" d="M33.5,28A7.5,7.5,0,1,1,41,20.5,7.5,7.5,0,0,1,33.5,28Zm0-12.5a5,5,0,1,0,5,5A5,5,0,0,0,33.5,15.5Z" transform="translate(-11 -13)" fill="#231f20"/>
+        <path id="Trazado_150402" data-name="Trazado 150402" d="M33.5,54A7.5,7.5,0,1,1,41,46.5,7.5,7.5,0,0,1,33.5,54Zm0-12.5a5,5,0,1,0,5,5A5,5,0,0,0,33.5,41.5Z" transform="translate(-11 -6.5)" fill="#231f20"/>
+      </g>
+    </g>
+  </g>
+</svg>
